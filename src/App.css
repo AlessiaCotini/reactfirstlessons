@@ -182,3 +182,17 @@
     border-right-color: var(--border);
   }
 }
+.btn{
+  background-color: pink;
+  margin: 1em;
+  border-radius: 2em;
+  color: rgb(228, 14, 49);
+  font-style: italic;
+border: transparent;
+display: inline-block;}
+.btn:hover{
+  cursor: pointer;
+}
+.btnDiv{
+  display: inline-block;
+}
